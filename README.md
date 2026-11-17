@@ -120,3 +120,5 @@ mysql -u root -p < database/schema.sql
 - `POST /api/returns/scan-expiry` - Trigger immediate expiry scan
 - `GET /api/reports/statistics` - Hub KPIs, turnaround duration, capacity gauges
 - `GET /api/reports/export` - Export full dataset for CSV download
+
+Project documentation reviewed and updated by SUREN1011.
